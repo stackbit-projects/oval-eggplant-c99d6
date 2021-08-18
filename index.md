@@ -23,16 +23,7 @@ Jek is a minimalist jekyll theme putting the power of color schemes in the user'
 
 Theme settings are saved in [session](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage) and [local](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) storage. Toggling light/dark mode or choosing a random palette saves settings for only the current session. Clicking the save button adds the theme to local storage for future visits.
 
-## 🍭 Default Themes
 
-*Try out the default themes by clicking below*
-
-{% for themes in site.data.themes %}
-
-<div class="theme-options {{ themes.name }} zoom" onclick="setSpeceficPallet('{{ themes.name }}');">
-    <p class="center">{{ themes.name }} ~ Lorem ipsum dolor sit amet</p>
-</div>
-{% endfor %}  
 
 ## 👩‍🚀 Add New Themes
 
