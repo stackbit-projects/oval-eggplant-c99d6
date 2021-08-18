@@ -3,7 +3,7 @@
 - name: Dark
   enabled: true
 - name: Dragos
-  enabled: false
+  enabled: true
 - name: Ocean
   enabled: true
 - name: Sunset
