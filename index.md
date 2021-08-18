@@ -6,11 +6,9 @@ layout: home
 ██─█▄█─███─▀─███─▄─▄██─██─██─█
 ▀▄▄▄▀▄▄▄▀▄▄▀▄▄▀▄▄▀▄▄▀▄▄▄▀▄▄▄▄▀
 
-
-
 ## ⚡ Features
 
-*   \[x] toggle light/dark with <i class="far fa-moon zoom" onclick="darkMode();"></i>
+*   \[x]Can Do Many This Such As Download ANy Video From Youtube and Other Sites
 *   \[x] choose theme with <i class="fas fa-palette zoom" onclick="toggleTheme();"></i>
 *   \[x] choose font with <i class="fas fa-pen-nib" onclick="toggleFont();"></i>
 *   \[x] save current theme for next visit with <i class="fas fa-user-astronaut zoom" onclick="saveFavorite();"></i>
